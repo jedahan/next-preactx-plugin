@@ -1,6 +1,6 @@
 {
   "name": "next-preactx-plugin",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "main": "index.js",
   "repository": "https://github.com/kennykimjr/next-preactx-plugin.git",
   "author": "kennykimjr <kennykimjr@gmail.com>",
@@ -12,9 +12,7 @@
     "next": "^>=8.1.0",
     "preact": ">=^10.0.0-beta.3",
     "preact-render-to-string": ">=^5.0.4",
-    "preact-ssr-prepass": ">=^1.0.0"
-  },
-  "devDependencies": {
+    "preact-ssr-prepass": ">=^1.0.0",
     "react": ">=^16.8.6",
     "react-dom": ">=^16.8.6"
   }
